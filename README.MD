@@ -111,7 +111,7 @@ Ecommerce_Customer_Segmentation/
 * Interactive Filters (Slicers)
 
 ## Dashboard Preview
-
+https://github.com/Aakriti-Singh01/Ecommerce-Customer-Segmentation/blob/main/images/image.png
 
 
 
