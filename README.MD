@@ -110,6 +110,7 @@ Ecommerce_Customer_Segmentation/
 * Scatter Plot: Recency vs Monetary (Customer Behavior)
 * Interactive Filters (Slicers)
 
+## Dashboard Preview
 
 
 
@@ -152,14 +153,6 @@ jupyter notebook
 * Feature engineering using RFM methodology
 * Clustering using K-Means
 * Data visualization and storytelling using Power BI
-
----
-
-## 🎯 Future Improvements
-
-* Add advanced clustering (DBSCAN, Hierarchical)
-* Integrate real-time data pipeline
-* Deploy as a web-based analytics dashboard
 
 ---
 
