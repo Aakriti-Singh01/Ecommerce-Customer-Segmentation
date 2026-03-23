@@ -130,7 +130,7 @@ https://github.com/Aakriti-Singh01/Ecommerce-Customer-Segmentation/blob/main/ima
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/Ecommerce-Customer-Segmentation.git
+git clone https://github.com/Aakriti-Singh01/Ecommerce-Customer-Segmentation.git
 ```
 
 2. Install dependencies:
